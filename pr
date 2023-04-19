@@ -1,0 +1,2 @@
+$ git checkout -b new_feature
+Switched to a new branch 'new_feature'
